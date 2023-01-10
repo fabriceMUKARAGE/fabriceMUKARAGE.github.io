@@ -346,6 +346,10 @@ img {
 .skills__bootstrap {
   width: 85%;
 }
+
+.skills__wordpress {
+  width: 90%;
+}
 .skills__mysql {
   width: 90%;
 }
